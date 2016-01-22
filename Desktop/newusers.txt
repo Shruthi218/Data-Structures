@@ -1,0 +1,68 @@
+adams:5000:Adams, John Couch:/bin/bash
+atiyah:5001:Atiyah, Michael:/bin/csh
+babbage:5002:Babbage, Charles:/bin/csh
+baker:5003:Baker, Alan:/bin/csh
+barrow:5004:Barrow, Isaac:/bin/bash
+birch:5005:Birch, Bryan John:/bin/csh
+borcherds:5006:Borcherds, Richard Ewen:/bin/bash
+cartwright:5007:Cartwright, Dame Mary:/bin/csh
+cayley:5008:Cayley, Arthur:/bin/csh
+clifford:5009:Clifford, William Kingdon:/bin/csh
+coates:5010:Coates, John:/bin/bash
+conway:5011:Conway, John Horton:/bin/csh
+cotes:5012:Cotes, Roger:/bin/bash
+daniell:5013:Daniell, Percy John:/bin/csh
+dawid:5014:Dawid, Philip:/bin/csh
+davenport:5015:Davenport, Harold:/bin/csh
+davidson:5016:Davidson, Rollo:/bin/bash
+donaldson:5017:Donaldson, Simon:/bin/csh
+dirac:5018:Dirac, Paul:/bin/csh
+eddington:5019:Eddington, Arthur Stanley:/bin/bash
+forsyth:5020:Forsyth, Andrew:/bin/bash
+glaisher:5021:Glaisher, James:/bin/bash
+goddard:5022:Goddard, Peter:/bin/csh
+gowers:5023:Gowers, William Timothy:/bin/bash
+grimmett:5024:Grimmett, Geoffrey:/bin/csh
+grojnowski:5025:Grojnowski, Ian:/bin/bash
+hawking:5026:Hawking, Stephen:/bin/bash
+hitchin:5027:Hitchin, Nigel:/bin/csh
+jeans:5028:Jeans, James:/bin/bash
+jeffreys:5029:Jeffreys, Harold:/bin/bash
+jones:5030:Jones, Thomas:/bin/bash
+kelly:5031:Kelly, Frank:/bin/csh
+kendall:5032:Kendall, David George:/bin/csh
+king:5033:King, Joshua:/bin/bash
+kirwan:5034:Kirwan, Frances:/bin/csh
+larmor:5035:Larmor, Joseph:/bin/bash
+leader:5036:Leader, Imre:/bin/csh
+littlewood:5037:Littlewood, John Edensor:/bin/bash
+maxwell:5038:Maxwell, James Clerk:/bin/bash
+macalister:5039:MacAlister, Donald:/bin/bash
+newman:5040:Newman, Max:/bin/csh
+milner:5041:Milner, Isaac:/bin/bash
+newton:5042:Newton, Isaac:/bin/bash
+norris:5043:Norris, James:/bin/bash
+norton:5044:Norton, Simon:/bin/bash
+orr:5045:Orr, William McFadden:/bin/csh
+penrose:5046:Penrose, Roger:/bin/bash
+ramanujan:5047:Ramanujan, Srinivasa:/bin/csh
+ramsey:5048:Ramsey, Frank:/bin/bash
+rogers:5049:Rogers, Chris:/bin/bash
+russell:5050:Russell, Bertrand:/bin/csh
+segal:5051:Segal, Graeme:/bin/bash
+spiegelhalter:5052:Spiegelhalter, David:/bin/bash
+stokes:5053:Stokes, Sir George Gabriel:/bin/bash
+sylvester:5054:Sylvester, James Joseph:/bin/zsh
+taylor:5055:Taylor, Martin:/bin/csh
+thompson:5056:Thompson, John:/bin/bash
+turing:5057:Turing, Alan:/bin/csh
+venn:5058:Venn, John:/bin/csh
+wallis:5059:Wallis, John:/bin/bash
+weber:5060:Weber, Richard:/bin/csh
+whitehead:5061:Whitehead, Alfred North:/bin/csh
+whittle:5062:Whittle, Peter:/bin/csh
+wiles:5063:Wiles, Andrew:/bin/bash
+williams:5064:Williams, David:/bin/bash
+wylie:5065:Wylie, Shaun:/bin/bash
+zeeman:5066:Zeeman, Erik Christopher:/bin/bash
+johri:5067:Johri, Vinod:/bin/csh

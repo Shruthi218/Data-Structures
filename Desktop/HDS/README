@@ -1,0 +1,14 @@
+lock.h - implementation of pthread_rwlock_t
+rwlocktest.h - test suite for validation
+test.cpp - src file for test suite
+
+A simple implementation of pthread_rwlock with no optimization for thread starvations or scheduling priority. 
+
+Test suite - Three versions of global increment. 5 writer threads and 2 readers threads spawned within each version. writer works on a loop of 100000 iterations so final updated value should be 500000 
+
+run 'make' - binary is 'rwlocks' 
+
+compiled with g++ compiler. 
+
+NOTE: in some cases, version with no lock will produce the desired result. Multiple runs of binary will vary the result
+

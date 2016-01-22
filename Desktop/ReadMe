@@ -1,0 +1,15 @@
+Language used is C.
+
+Compiler used is gcc. 
+
+'make' will create two executables 'interval' and 'lcs'.
+
+To run the two programs,
+
+./interval testFile
+./lcs testFile
+
+
+
+
+

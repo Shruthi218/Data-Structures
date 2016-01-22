@@ -1,0 +1,21 @@
+#the compiler : gcc for C program
+CC=gcc
+
+#compiler flags:
+# -g adds debgugging information to executable file
+# -Wall turns on most of the compiler warnings
+CFLAGS = -g -Wall
+
+# target executable file
+
+TARGET=first
+
+all: $(TARGET)
+
+$(TARGET) : $(TARGET).c
+$(CC) $(CFLAGS) -o $(TARGET) $(TARGET).c
+
+
+clean:
+$(RM) $(TARGET)
+
